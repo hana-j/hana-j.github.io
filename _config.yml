@@ -24,9 +24,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: @1S4QAyLL73Hhiko
+    twitter: samarsault
     github:  https://github.com/hana-j
-    linkedIn: 
+    linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
