@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "배움을 통해 서비스를 제공하는 개발자"
+title:  "hana-j"
 date:   2021-09-14 21:03:36 +0530
 categories: Java Jsp SpringFrameWork
 ---
@@ -12,12 +12,13 @@ categories: Java Jsp SpringFrameWork
 ## Project
 ### MINS TOUCH
 JAVA & JSP 학원 팀 프로젝트 <br>
-사용자 URL : <a href="http://smart.swq.co.kr/MinsTouch/userMain.jsp"><br>
-관리자 URL : <a href="http://smart.swq.co.kr/MinsTouch/adminMain.jsp"><br>
-소스코드   : <a href="https://github.com/hana-j/MINSTOUCH"><br>
-사용 메뉴얼 PPT : <a href="https://hana-j.tistory.com/13">
+[사용자 URL][사용자 URL] ("http://smart.swq.co.kr/MinsTouch/userMain.jsp")<br>
+[관리자 URL][관리자 URL] ("http://smart.swq.co.kr/MinsTouch/adminMain.jsp")<br>
+[소스코드][소스코드] ("https://github.com/hana-j/MINSTOUCH")<br>
+[사용 메뉴얼 PPT][사용메뉴얼 PPT] ("https://hana-j.tistory.com/13")
 
 ## Experience
+
 
 |기간|학교 & 근무처|내용|
 |:---:|:---:|:---:|
@@ -25,7 +26,9 @@ JAVA & JSP 학원 팀 프로젝트 <br>
 |2021.03~현재|한국방송통신대학교 재학중|컴퓨터과학과|
 |2019.03~2020.09|대연(나이키)|사원|
 |2018.01~2019.01|대성월드|사원|
-|2018.02|아주자동차대학교 졸업|자동차학과|
+|2018.02|아주자동차대학교 졸업|자동차학
+
+
 
 ## etc
 * 정보처리산업기사 (2021.08 취득)
