@@ -12,10 +12,10 @@ categories: Java Jsp SpringFrameWork
 ## Project
 ### MINS TOUCH
 JAVA & JSP 학원 팀 프로젝트 <br>
-[사용자 URL][사용자 URL](http://smart.swq.co.kr/MinsTouch/userMain.jsp)<br>
-[관리자 URL][관리자 URL](http://smart.swq.co.kr/MinsTouch/adminMain.jsp)<br>
-[소스코드][소스코드](https://github.com/hana-j/MINSTOUCH)<br>
-[사용 메뉴얼 PPT][사용메뉴얼 PPT](https://hana-j.tistory.com)
+사용자 URL : [사용자 URL](http://smart.swq.co.kr/MinsTouch/userMain.jsp)<br>
+관리자 URL : [관리자 URL](http://smart.swq.co.kr/MinsTouch/adminMain.jsp)<br>
+소스코드 : [소스코드](https://github.com/hana-j/MINSTOUCH)<br>
+사용 메뉴얼 PPT : [사용메뉴얼 PPT](https://hana-j.tistory.com)
 
 ## Experience
 
