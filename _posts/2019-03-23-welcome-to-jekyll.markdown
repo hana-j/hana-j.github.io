@@ -1,4 +1,6 @@
 ---
+layout: default
+---
 layout: post
 title:  "hana-j" _click here_
 date:   2021-10-01 21:03:36 +0530
