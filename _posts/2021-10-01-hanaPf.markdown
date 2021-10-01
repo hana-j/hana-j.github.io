@@ -1,7 +1,5 @@
 ---
 layout: post
----
-layout: post
 title:  "hana-j" _click here_
 date:   2021-10-01 21:03:36 +0530
 categories: Java Jsp SpringFrameWork
@@ -18,6 +16,7 @@ JAVA & JSP 학원 팀 프로젝트 <br>
 관리자 URL : [관리자 URL](http://smart.swq.co.kr/MinsTouch/adminMain.jsp)<br>
 소스코드 : [소스코드](https://github.com/hana-j/MINSTOUCH)<br>
 사용 메뉴얼 PPT : [사용메뉴얼 PPT](https://hana-j.tistory.com)
+
 ---
 ## Experience
 
